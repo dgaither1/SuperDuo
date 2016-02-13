@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dip"
+    android:orientation="vertical"
+    android:background="@drawable/widget_background">
+
+    <TextView
+        android:id="@+id/game_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="start|center_vertical"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:textSize="12sp"
+        android:maxLines="2"
+        android:ellipsize="end" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/game_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="start|center_vertical"
+        android:textSize="12sp"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:maxLines="2"
+        android:ellipsize="end" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/game_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="start|center_vertical"
+        android:textSize="12sp"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:maxLines="2"
+        android:ellipsize="end" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/game_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="start|center_vertical"
+        android:textSize="12sp"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:maxLines="2"
+        android:ellipsize="end">
+    </TextView>
+
+    <TextView
+        android:id="@+id/game_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="start|center_vertical"
+        android:textSize="12sp"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:maxLines="2"
+        android:ellipsize="end" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/game_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="start|center_vertical"
+        android:textSize="12sp"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:maxLines="2"
+        android:ellipsize="end" >
+    </TextView>
+
+</LinearLayout>
