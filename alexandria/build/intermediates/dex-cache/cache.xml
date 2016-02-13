@@ -2,214 +2,214 @@
 <items version="2" >
 
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-67a45b96327aa3ec6ff52a1f220cc6931bdcf089.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/classes.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-e5954c880b47a30d12a1cf46b452ea8da991fcc6.jar" />
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-319bd0c843fc27a9457bc20bfeb642d2a2c26ed1.jar" />
     </item>
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="997773777cf3904c11d6764fe3b7668538220e49">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-9ad395b2c4f712ca8fec50d8edd4ad6bbb451d0d.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-d59e7478fd62f8d47822b00acd8628e79ba2a2c3.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/classes.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-1407ab8ac93fb9af9bab2699fa11a531436427af.jar" />
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-bf28296d86d32035534e60c5de11f661f19efa0d.jar" />
     </item>
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/classes.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-1a60db64f9b617ccc7d78085721b5309b99b7380.jar" />
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-da9dfa547aa3c3a2cbc01ad176c4a97e323a0ed4.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-774d37eaafee96981413f45e664eb5993a418e06.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-3c72c3988e27d687f6c52ac0dcb73d5055d97356.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-d2c31cf7fc79781e4542d33e012dc9c11975e4dc.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-04fcae4d0ae128619edf3b4d91897d86bdb6c936.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-241be0efc903523e09ef9a1e45bd31cfca7c022b.jar" />
     </item>
     <item
         jar="/Android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-05cb0f2f453bb95dc5b4b552a1511786af1461e2.jar" />
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-05cb0f2f453bb95dc5b4b552a1511786af1461e2.jar" />
     </item>
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-8a7aa14a0350277d8806cea089928a4fda4e22cc.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-ae461a2b4f69a4327b96247298a032f711d10883.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-3ccaff2183dbf2f26325c7c4bdaae820ec22e93c.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-da7a39c86942f84d2971cf1035ae9b57c3c9e2b1.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3178362320bcf51228835b60ff978efadfd1f783">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-a1806b55dab4a1347a2b762f165c917fade3b3a9.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-33deaf69dee3cea407462108a3ef0dcb2a23afb8.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-46d7c376099575bc42b23343de89b36e0455bd3b.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-05f294e5b97f7115eb86503416a045d4f8f85cca.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-00a4c575fb1b8dcb504b3a5ea1573d2842472216.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="482de223655d06253cc6a4955d653f8994169500">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-ce46f30b7eba2244f4257dc27aa60194b9e5af0e.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/classes.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="82054090e487d78e163a988557db62d809fa9b95">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-bd0e353ec79d79888eb0ea6d9783f30ed649e347.jar" />
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-bc6590d89aa149946081370a8cbbf1288838312f.jar" />
     </item>
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-048ffca824fbb2fd84631afa9ba9205c03258512.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-563006c3c2e0959ca27b9a90a4ff377c38ce2769.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/jacoco/jacocoagent.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-f4eeb4fa6b72f548e73976638aa7d1a378ce4076.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/classes.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-446d6526a89c228d3c40c3a16e66af636d87689c.jar" />
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-b623504a56feda800fe761f4642338a7cafeb17e.jar" />
     </item>
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/classes.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/jacoco/jacocoagent.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-1c649705edbcce10b57f13186c33af4886cd0f86.jar" />
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/jacocoagent-b32d9aaeb0d26d4421675d57b0a74157d362fc14.jar" />
     </item>
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-9c6e43191f368b83a6dc7cc09ba4f88b5b942fd4.jar" />
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-383e89061ed271cac355a73727c75058abc86d1d.jar" />
     </item>
     <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-8e416ab5772e71c3b8b4aa96bf56deaa6ab05571.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="17449c47df35c754b257532052f1270c444f7993">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-6dca1cd0da8224c17300b8d1bceb8eb9822ef2e9.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="95758a2905669affbffc5ddd262921d375674fad">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-2e7011097ddb48b157fcd3bf939b89bf531f36a6.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-ad55445d8820fe3f8d84e606222d84ba94b2e209.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/classes-1bd713ed18484f24626b6286557576c14651c0a5.jar" />
-    </item>
-    <item
-        jar="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/Users/mlc9433/AndroidNanodegree/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b4460992dbcd575e726eb2b419287968e4117a76.jar" />
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-79044dec9d11baa4ca463b6f051675d2ca9161b3.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-390b8c44f9be85380c5c581abe9255a5d7921657.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-38ccb760423eaaffde0f08e6ba0e9d780b67dbb9.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-06c92dca9e21aa7b26d97d80bd10a7bf6fdd0e42.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-ab705abedae73f6b801e6177e12631abfb1db707.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-edec81d479577eb2d6b1e7b21c6f6a861ab1a650.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-a33237f1bfb91605450492e097fb54e475810f26.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-ed38eb2a8a0a83a8647007530d87be234ff70970.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-f1ca22a484e45ad8c0d04054f257ff08300f858a.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-03c538d21c6851a28a05a8a9f9037dad9c1ce430.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-3ea2b796dc207ca6ebe520a97aacbb00e080d6bd.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-e3b4f0bc7bb6820891863ed88d0f1a1cf2d29061.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-b19004159ba75c39f2e51a13947c26da5cc7e38e.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-5626b1cd0c47e595bbd4cd9f28f7bad74c35de4b.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-faf495414e67c998539619a4a1d26bcadb889573.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-98353c7efecdb6dd74aca1a110b41bdbe0333bc9.jar" />
+    </item>
+    <item
+        jar="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/mlc9433/AndroidNanodegree/SuperDuo/alexandria/app/build/intermediates/pre-dexed/debug/classes-b3ba576c42f52a57f8fa38a3399740c7661356ef.jar" />
     </item>
 
 </items>

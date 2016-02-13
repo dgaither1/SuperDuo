@@ -3,6 +3,7 @@ package it.jaschke.alexandria;
 import android.app.Activity;
 import android.content.Intent;
 import android.database.Cursor;
+import android.hardware.Camera;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.LoaderManager;
@@ -17,6 +18,7 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.vision.barcode.Barcode;
@@ -100,12 +102,18 @@ public class AddBook extends Fragment implements LoaderManager.LoaderCallbacks<C
                 //when you're done, remove the toast below.
 
 
-                // launch barcode activity.
-                Intent intent = new Intent(getActivity(), BarcodeCaptureActivity.class);
-                intent.putExtra(BarcodeCaptureActivity.AutoFocus, true);
-                intent.putExtra(BarcodeCaptureActivity.UseFlash, false);
+//                Camera.CameraInfo cameraInfo = new Camera.CameraInfo();
+                if(Camera.getNumberOfCameras() > 0) {
 
-                startActivityForResult(intent, RC_BARCODE_CAPTURE);
+                    // launch barcode activity.
+                    Intent intent = new Intent(getActivity(), BarcodeCaptureActivity.class);
+                    intent.putExtra(BarcodeCaptureActivity.AutoFocus, true);
+                    intent.putExtra(BarcodeCaptureActivity.UseFlash, false);
+
+                    startActivityForResult(intent, RC_BARCODE_CAPTURE);
+                } else {
+                    Toast.makeText(getActivity(), "Your device does not have a camera", Toast.LENGTH_SHORT).show();
+                }
 
             }
         });
